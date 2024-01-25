@@ -210,12 +210,10 @@ public class MainActivity extends AppCompatActivity implements TextDecodingCallb
 
 There are two options `Encode` and `Decode`. In the encode section you can hide a secret message into an image without making any noticeable changes. In the decode section you can extract the message from the encoded image by inserting the correct key.
 
-**Note** - After pressing the `Save` button, both the original and encoded images are saved at the location ```Android/data/com.ayush.steganography/files/Documents/<UUID>/ ```
 
 |                            Encode                            |                            Decode                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://github.com/aagarwal1012/Image-Steganography-Library-Android/blob/master/images/encode.gif" height = "500px"/> | <img src="https://github.com/aagarwal1012/Image-Steganography-Library-Android/blob/master/images/decode.gif" height = "500px"/> |
-# Want to contribute !
+| <img src="https://github.com/aagarwal1012/Image-Steganography-Library-Android/blob/master/images/encode.gif" height = "500px"/> | <img src="https://github.com/aagarwal1012/Image-Steganography-Library-Android/blob/master/images/decode.gif" height = "500px"/> |!
 
 
 
